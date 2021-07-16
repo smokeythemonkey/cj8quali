@@ -27,11 +27,7 @@ Complete the Rube Goldberg Machine and get the ball to the objectives to free th
 Each object in a level has a different color assigned to is which corresponds to a behavior!
 <details>
     <summary> Spoilers! </summary>
-        <span style="color:blue">Blue</span>: Indicates the window border<br>
-        <span style="color:green">Green</span>: Object is not resizeable<br>
-        <span style="color:grey">Grey</span>: Object is interactive<br>
-        <span style="color:yellow">Yellow</span>: Goal/Objective<br>
-        <span style="color:red">Red</span>: Resizable objects
+       test
 </details>  
 
 :smile:

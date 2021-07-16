@@ -25,10 +25,11 @@ Complete the Rube Goldberg Machine and get the ball to the objectives to free th
 ### _Hints_
 
 Each object in a level has a different color assigned to is which corresponds to a behavior!
-<details>
-    <summary> Spoilers! </summary>
-       test
-</details>  
+<details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   <p>A1: JavaScript</p>
+   <a href="https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=net-5.0">IDisposable</a>
+</details> 
 
 :smile:
 
